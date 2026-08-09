@@ -12,5 +12,4 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 ---
 
 ## 🛠 Teaching Philosophy & Skills
-- **Core Topics:** Algorithms, Data Structures, Discrete Math, Web Development
-- **Languages & Tools:** Python, C/C++, Java, C#, SQL, Git
+- **Core Topics:** who knows?
