@@ -6,7 +6,7 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ## 💼 Teaching Projects & Coursework
 
-### 1.[Build A House in Snap!
+### 1.Build A House in Snap!
 - [Watch Recording](https://youtu.be/bu5TXScfVog)
 
 ---
