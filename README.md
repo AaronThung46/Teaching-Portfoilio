@@ -14,6 +14,7 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 3.Loops Animal Overview!
 - [Watch Recording](https://www.youtube.com/watch?v=Z7YtV9BgRv8)
+  
 ---
 
 ## 🛠 Teaching Philosophy & Skills
