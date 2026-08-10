@@ -9,6 +9,8 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 ### 1.Build A House in Snap!
 - [Watch Recording](https://youtu.be/bu5TXScfVog)
 
+### 2.Break Dancer!
+- [Watch Recording](https://www.youtube.com/watch?v=h2VDXstPseo)
 ---
 
 ## 🛠 Teaching Philosophy & Skills
