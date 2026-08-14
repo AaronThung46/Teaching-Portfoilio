@@ -17,6 +17,9 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 4. Nested For Loops Mouse!
 - [Watch Recording](https://youtu.be/AU0_9tlba0c)
+
+### 5. Monkey Events!
+- [Watch Recording](https://youtu.be/50y25DvrZho)
   
 ---
 
