@@ -20,6 +20,9 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 5. Monkey Events!
 - [Watch Recording](https://youtu.be/50y25DvrZho)
+
+### 6. Drawing Shapes with Variables!
+- [Watch Recording](https://www.youtube.com/watch?v=4tH8LQb06vs)
   
 ---
 
