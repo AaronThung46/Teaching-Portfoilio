@@ -22,7 +22,7 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 - [Watch Recording](https://youtu.be/50y25DvrZho)
 
 ### 6. Drawing Shapes with Variables!
-- [Watch Recording](https://www.youtube.com/watch?v=4tH8LQb06vs)
+- [Watch Recording](https://youtu.be/RlTaZe0qFyg)
 
 ### 7. Soccer Conditional Repeats!
 - [Watch Recording](https://youtu.be/9NZhNRyw1pg)
