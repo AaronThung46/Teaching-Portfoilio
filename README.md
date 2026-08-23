@@ -26,6 +26,9 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 7. Soccer Conditional Repeats!
 - [Watch Recording](https://youtu.be/9NZhNRyw1pg)
+
+### 8. If and If Else Statements!
+- [Watch Recording](https://youtu.be/mzr2iwuuUaM)
   
 ---
 
