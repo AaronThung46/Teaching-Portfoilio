@@ -29,6 +29,9 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 8. If and If Else Statements!
 - [Watch Recording](https://youtu.be/mzr2iwuuUaM)
+
+### 9. Nested If Else Statements!
+- [Watch Recording](https://youtu.be/uM9gBaBtsbY)
   
 ---
 
