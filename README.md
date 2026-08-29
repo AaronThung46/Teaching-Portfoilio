@@ -32,6 +32,9 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 9. Nested If Else Statements!
 - [Watch Recording](https://youtu.be/uM9gBaBtsbY)
+
+### 10. Compound Conditionals
+- [Watch Recording](https://youtu.be/OOQSV0JtURY)
   
 ---
 
