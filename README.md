@@ -34,7 +34,7 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 - [Watch Recording](https://youtu.be/uM9gBaBtsbY)
 
 ### 10. Compound Conditionals
-- [Watch Recording](https://youtu.be/OOQSV0JtURY)
+- [Watch Recording](https://youtu.be/hdderUevmKM)
   
 ---
 
