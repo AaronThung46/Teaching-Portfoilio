@@ -38,6 +38,9 @@ Welcome to my Teaching Portfolio! Below is a curated list of my teaching project
 
 ### 11. Draw a Picture!
 - [Watch Recording](https://www.youtube.com/watch?v=SgW-z04BbeM)
+
+### 12. List of Countries!
+- [Watch Recording](https://youtu.be/ZTtCTa3ZOj4)
   
   
 ---
